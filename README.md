@@ -2,7 +2,8 @@
 
 # Usage:
 ```
-scrape_reddit("cat", 10)
+# Input the name of the subreddit to scrape.
+# Number of post to download.
 
 ```
 
